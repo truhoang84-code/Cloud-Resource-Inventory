@@ -7,7 +7,7 @@ Built as a hands-on companion project while studying for the AWS Cloud
 Practitioner certification, each new resource type added to this project
 corresponds to a concept covered in AWS coursework.
 
-# Concepts Practiced
+## Concepts Practiced
 - Interfaces and abstract classes
 - Inheritance and polymorphism
 - Object-oriented design applied to real-world cloud resource modeling
